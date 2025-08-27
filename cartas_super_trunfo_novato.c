@@ -1,5 +1,5 @@
 #include      <stdio.h>
-
+// trabalho nivel novato
 int main()
 {
 //dados carta 1
